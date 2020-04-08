@@ -167,4 +167,25 @@ export const robots = [
     email: 'Sincere@april.biz',
     type: 'Friend'
   },
+  {
+    id: 24,
+    name: 'ShakedBen',
+    username: 'Bret',
+    email: 'Sincere@april.biz',
+    type: 'Friend'
+  },
+  {
+    id: 24,
+    name: 'ShakedBat',
+    username: 'Bret',
+    email: 'Sincere@april.biz',
+    type: 'Friend'
+  },
+  {
+    id: 24,
+    name: 'Doni',
+    username: 'Bret',
+    email: 'Sincere@april.biz',
+    type: 'Friend'
+  },
 ];
